@@ -29,7 +29,7 @@ Template Name: MUSIC
 
 	<div id="album" class="col5">
 
-		<p><img class ="boxshadow" src="<?php echo get_template_directory_uri(); ?>/library/images/heartsheroes.jpg"></p>
+		<p><img class="boxshadow" src="<?php echo get_template_directory_uri(); ?>/library/images/heartsheroes.jpg"></p>
 		
 		<ol class="tracklist">
 		  <li>Intro</li>
@@ -52,7 +52,7 @@ Template Name: MUSIC
 	<div id="album" class="col5 margin1">
 
 	  <h3>Hearts & Heroes</h3>
-	  <span class="note">Released: 2014</span>
+	  <p>Released: 2014</p>
 
 		<div style="margin: 20px 0 0 -8px;">
 		  <?php echo do_shortcode('[amazingaudioplayer id="7"]'); ?>
