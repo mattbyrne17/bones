@@ -92,7 +92,7 @@ Template Name: MUSIC
 		<ol class="tracklist">
 		  <li>Banks of Newfoundland</li>
 		  <li>Young Riley</li>
-		  <li>Three Score and Ten</li>
+		  <li>Three Score & Ten</li>
 		  <li>Banks of the Bann</li>
 		  <li>Jack Ashton</li>
 		  <li>Barque in the Harbour</li>
