@@ -1,0 +1,26 @@
+/*
+Font: 		Frontage
+Style: 		Regular
+URL: 		http://www.youworkforthem.com/product.php?sku=T3015
+Foundry: 	Juri Zaech
+Foundry: 	http://www.youworkforthem.com/designer/253/juri-zaech
+Copyright:	Copyright (c) 2012 by Juri Zaech. All rights reserved.
+Version: 	1.4
+Created:	November 17, 2013
+License: 	http://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'Frontage-Regular';
+	src: url('frontage-regular.eot');
+	src: url('frontage-regular.eot?#iefix') format('embedded-opentype'),
+	     url('frontage-regular.woff') format('woff'),
+	     url('frontage-regular.ttf') format('truetype'),
+	     url('frontage-regular.svg#ywftsvg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
