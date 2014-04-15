@@ -12,7 +12,7 @@ Template Name: SPLASH
 		    <?php echo do_shortcode('[soliloquy slug="194"]'); ?>
 		    
 		  	<p class="continue">
-		  		<a href="<?php echo get_site_url(); ?>">new website coming soon!</a>
+		  		<a href="<?php echo get_site_url(); ?>/home">enter website...</a>
 		  	</p>
 
 		</div>
