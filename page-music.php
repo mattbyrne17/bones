@@ -52,7 +52,7 @@ Template Name: MUSIC
 	<div id="album" class="col5 margin1">
 
 	  <h3>Hearts & Heroes</h3>
-	  <p class="note">Released: 2014</p>
+	  <p>Released: 2014</p>
 
 		<div style="margin: 20px 0 0 -8px;">
 		  <?php echo do_shortcode('[amazingaudioplayer id="7"]'); ?>
@@ -108,7 +108,7 @@ Template Name: MUSIC
 
 
  	   <h3>Ballads</h3>
-	   <span class="note">Released: 2010</span>
+	   <p>Released: 2010</p>
 
 		<div style="margin: 20px 0 0 -8px;">
 		  <?php echo do_shortcode('[amazingaudioplayer id="8"]'); ?>
