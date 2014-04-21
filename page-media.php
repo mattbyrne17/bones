@@ -25,7 +25,7 @@ Template Name: MEDIA
 
 		<h2>Press Photos...</h2>
 
-			<p class="note">JPG / RGB / 300 DPI -- Approved for publicity & promotion.</p>
+			<p>JPG / RGB / 300 DPI -- Approved for publicity & promotion.</p>
 			<p>Photography by <a href="http://www.grahamkennedy.ca/" target="_blank">Graham Kennedy</a></p>
 		
 			<?php echo do_shortcode('[gallery link="file" ids="205,206,207,208,209,212"]'); ?>
