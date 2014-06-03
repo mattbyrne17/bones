@@ -1,0 +1,1 @@
+[01-Jun-2014 01:36:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/matthe41/public_html/wp-content/themes/bones/index.php on line 1
