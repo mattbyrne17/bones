@@ -3,7 +3,7 @@
 
 	<div class="widget"> <!-- cd image -->
 	
-		<h2 class="available"><em>HEARTS & HEROES</em><BR>AVAILABLE MAY 31</h2>
+		<h2 class="available">NEW ALBUM<BR>AVAILABLE NOW!</h2>
 
 		<div class="boxshadow">
 		  <?php echo do_shortcode('[soliloquy id="196"]'); ?>
@@ -12,7 +12,7 @@
 	</div>
 	
 	
-	<!--
+	
 	<div class="widget"> 
 	
 		<?php if ( is_active_sidebar( 'sidebar1' ) ) : ?>
@@ -21,12 +21,12 @@
 		<?php endif; ?>
 
 	</div>
-	-->
+	
 
 
 	<div class="widget"> <!-- preview player -->
 
-		<h2>Preview...</h2>
+		<h2>Listen...</h2>
 
 		<div class="songplayer">
 		  <?php echo do_shortcode('[amazingaudioplayer id="7"]'); ?>

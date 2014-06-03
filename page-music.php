@@ -61,10 +61,9 @@ Template Name: MUSIC
 	    <hr>
 
 		<ul id="menu-purchase">
-		  <li><a href="#">AVAILABLE 31.05.2014</a></li>
-		  <!--<li><a href="#">iTUNES</a></li>
-		  <li><a href="#">CDBABY</a></li>
-		  <li><a href="#">ORDER CD</a></li>-->
+		  <li><a href="https://itunes.apple.com/ca/album/hearts-heroes/id838849145" target="blank">iTUNES</a></li>
+		  <li><a href="http://www.cdbaby.com/cd/matthewbyrne2" target="blank">CDBABY</a></li>
+		  <li><a href="http://www.fredsrecords.com/site/shop/matthew-byrne-hearts/" target="blank">ORDER CD</a></li>
 		</ul>
 					
 	    <hr>
