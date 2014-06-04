@@ -336,28 +336,22 @@ NAVIGATION STYLES
 /* .menu is clearfixed inside mixins.scss */
 .menu {
   /* end .menu ul */
-
 }
 .menu ul {
   /* end .menu ul li */
-
   /* highlight current page */
-
   /* end current highlighters */
-
 }
 .menu ul li {
   /*
 				plan your menus and drop-downs wisely.
 				*/
-
 }
 .menu ul li a {
   /*
 					you can use hover styles here even though this size
 					has the possibility of being a mobile device.
 					*/
-
 }
 /* end .menu */
 /*********************
@@ -366,7 +360,6 @@ POSTS & CONTENT STYLES
 /* entry content */
 .entry-content {
   /* at this larger size, we can start to align images */
-
 }
 .entry-content .alignleft,
 .entry-content img.alignleft {
@@ -613,7 +606,6 @@ LAYOUT & GRID STYLES
   margin-top: 0px;
 }
 #container {
-  background: rgba(255, 255, 255, 0.1);
   width: 1080px;
   margin: 0 auto;
   padding: 0px 20px;
@@ -651,11 +643,8 @@ NAVIGATION STYLES
   border: 0;
   float: right;
   /* end .menu ul li */
-
   /* highlight current page */
-
   /* end current highlighters */
-
 }
 .nav li {
   float: left;
@@ -669,7 +658,6 @@ NAVIGATION STYLES
 			you can use hover styles here even though this size
 			has the possibility of being a mobile device.
 			*/
-
 }
 .nav li a:hover,
 .nav li a:focus {
@@ -735,7 +723,6 @@ SIDEBARS & ASIDES
 }
 .sidebar .widget ul li {
   /* deep nesting */
-
 }
 .sidebar .widget ul li ul {
   margin-top: 0.75em;
@@ -766,7 +753,6 @@ mobile. Make sure to double check these!
 			it's very rare to have multi-depth menus in
 			the footer.
 			*/
-
 }
 /* end .footer-links */
 /******************************************************************
