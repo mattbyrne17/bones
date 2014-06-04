@@ -598,6 +598,13 @@ come into play. Have fun!
 /*********************
 GENERAL STYLES
 *********************/
+body {
+  background: url('../images/capespear.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 /*********************
 LAYOUT & GRID STYLES
 *********************/

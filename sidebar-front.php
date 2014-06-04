@@ -5,7 +5,7 @@
 	
 		<h2 class="available">NEW ALBUM<BR>AVAILABLE NOW!</h2>
 
-		<div class="boxshadow">
+		<div>
 		  <?php echo do_shortcode('[soliloquy id="196"]'); ?>
 		</div>
 

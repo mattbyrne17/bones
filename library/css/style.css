@@ -813,16 +813,12 @@ body {
   /* height: 100%; */
 }
 body {
+  background: #242221;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   letter-spacing: 0.8px;
   line-height: 1.5;
   font-size: 12px;
-  background: url('../images/capespear.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }
 img {
   max-width: 100%;
@@ -1865,6 +1861,13 @@ come into play. Have fun!
   /*********************
 GENERAL STYLES
 *********************/
+  body {
+    background: url('../images/capespear.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
   /*********************
 LAYOUT & GRID STYLES
 *********************/
