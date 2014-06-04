@@ -606,9 +606,9 @@ LAYOUT & GRID STYLES
   margin-top: 0px;
 }
 #container {
-  width: 1080px;
+  width: 1050px;
   margin: 0 auto;
-  padding: 0px 20px;
+  background: rgba(17, 17, 17, 0.4);
 }
 /******************************************************************
 HIDE FOR MOBILE
