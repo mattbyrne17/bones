@@ -894,6 +894,7 @@ HIDE FOR MOBILE
 a,
 a:visited {
   color: #767d92;
+  font-weight: bold;
   /* on hover */
   /* on click */
   transition: 0.5s ease;
