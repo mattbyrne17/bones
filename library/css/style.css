@@ -1227,10 +1227,29 @@ SPECIAL LISTS & MENUS
 #menu-purchase li:last-child {
   margin: 0;
 }
+#menu-purchase .stores,
 #menu-purchase a {
   font-size: 1.3em;
   color: #d6daca;
   font-weight: normal;
+  cursor: pointer;
+  cursor: hand;
+}
+/******************************************************************
+PURCHASE DROPDOWN OPTIONS
+******************************************************************/
+#purchase-dropdown1,
+#purchase-dropdown2,
+#purchase-dropdown3,
+#purchase-dropdown4 {
+  display: none;
+  text-align: center;
+}
+#purchase-dropdown1 a,
+#purchase-dropdown2 a,
+#purchase-dropdown3 a,
+#purchase-dropdown4 a {
+  margin: 0 10px;
 }
 /******************************************************************
 09. PAGE NAVI STYLES

@@ -106,3 +106,25 @@ jQuery(document).ready(function($) {
 	w.addEventListener( "orientationchange", restoreZoom, false );
 	w.addEventListener( "devicemotion", checkTilt, false );
 })( this );
+
+
+// Dropdown store options
+jQuery(function($) {
+            
+    $('#dropdown1').click(function() {  
+        $('#purchase-dropdown1').fadeIn('slow');  
+    });
+
+    $('#dropdown2').click(function() {  
+        $('#purchase-dropdown2').fadeIn('slow');  
+    });
+
+    $('#dropdown3').click(function() {  
+        $('#purchase-dropdown3').fadeIn('slow');  
+    });
+
+    $('#dropdown4').click(function() {  
+        $('#purchase-dropdown4').fadeIn('slow');  
+    });
+
+});

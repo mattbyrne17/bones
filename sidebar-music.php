@@ -17,8 +17,13 @@
 		<ul id="menu-purchase">
 		  <li><a href="https://itunes.apple.com/us/album/the-eastern-light/id533774960" target="_blank">iTUNES</a></li>
 		  <li><a href="http://www.cdbaby.com/cd/thedardanelles" target="_blank">CDBABY</a></li>
-		  <li><a href="http://www.fredsrecords.com/site/shop/dardanelles-the-the-eastern-light/" target="_blank">ORDER CD</a></li>
+		  <li class="stores" id="dropdown2">ORDER CD</li>
 		</ul>
+
+			<div id="purchase-dropdown2">
+				<a href="http://www.fredsrecords.com/site/shop/dardanelles-the-the-eastern-light/">Fred's Records</a>
+				<a href="http://obriensmusic.com/shop/the-dardanelles-the-eastern-light/">O'Brien's Music</a>
+			</div>
 		
 	    <hr>
 	    <br>

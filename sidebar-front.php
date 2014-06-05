@@ -14,11 +14,19 @@
 	
 	
 	<div class="widget"> 
-	
-		<?php if ( is_active_sidebar( 'sidebar1' ) ) : ?>
-		<?php dynamic_sidebar( 'sidebar1' ); ?>
-		<?php else : ?>
-		<?php endif; ?>
+
+		<h2>Purchase...</h2>
+
+		<ul id="menu-purchase">
+		  <li><a href="https://itunes.apple.com/ca/album/hearts-heroes/id838849145" target="_blank">iTUNES</a></li>
+		  <li><a href="http://www.cdbaby.com/cd/matthewbyrne2" target="_blank">CDBABY</a></li>
+		  <li class="stores" id="dropdown1">ORDER CD</li>
+		</ul>
+
+			<div id="purchase-dropdown1">
+				<a href="http://www.fredsrecords.com/site/shop/matthew-byrne-hearts/" target="blank">Fred's Records</a>
+				<a href="#" target="blank">O'Brien's Music</a>
+			</div>
 
 	</div>
 	

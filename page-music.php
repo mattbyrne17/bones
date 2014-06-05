@@ -61,10 +61,15 @@ Template Name: MUSIC
 	    <hr>
 
 		<ul id="menu-purchase">
-		  <li><a href="https://itunes.apple.com/ca/album/hearts-heroes/id838849145" target="blank">iTUNES</a></li>
-		  <li><a href="http://www.cdbaby.com/cd/matthewbyrne2" target="blank">CDBABY</a></li>
-		  <li><a href="http://www.fredsrecords.com/site/shop/matthew-byrne-hearts/" target="blank">ORDER CD</a></li>
+		  <li><a href="https://itunes.apple.com/ca/album/hearts-heroes/id838849145" target="_blank">iTUNES</a></li>
+		  <li><a href="http://www.cdbaby.com/cd/matthewbyrne2" target="_blank">CDBABY</a></li>
+		  <li class="stores" id="dropdown3">ORDER CD</li>
 		</ul>
+
+			<div id="purchase-dropdown3">
+				<a href="http://www.fredsrecords.com/site/shop/matthew-byrne-hearts/">Fred's Records</a>
+				<a href="#">O'Brien's Music</a>
+			</div>
 					
 	    <hr>
 	    <br>
@@ -118,8 +123,13 @@ Template Name: MUSIC
 		<ul id="menu-purchase">
 		  <li><a href="https://itunes.apple.com/ca/album/ballads/id372887267" target="_blank">iTUNES</a></li>
 		  <li><a href="http://www.cdbaby.com/cd/MatthewByrne" target="_blank">CDBABY</a></li>
-		  <li><a href="http://www.fredsrecords.com/site/shop/matthew-byrne-ballads/" target="_blank">ORDER CD</a></li>
+		  <li class="stores" id="dropdown4">ORDER CD</li>
 		</ul>
+
+			<div id="purchase-dropdown4">
+				<a href="http://www.fredsrecords.com/site/shop/matthew-byrne-ballads/">Fred's Records</a>
+				<a href="http://obriensmusic.com/shop/matthew-byrne-ballads/">O'Brien's Music</a>
+			</div>
 					
 	    <hr>
 	    <br>
