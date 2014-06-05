@@ -253,7 +253,7 @@ BUTTONS
 .button,
 .button:visited {
   border: none;
-  background: #d6daca;
+  background: #dde0d5;
   padding: 4px 9px;
   color: #101010;
   display: inline-block;
@@ -276,7 +276,7 @@ BUTTONS
 .button:visited:hover,
 .button:focus,
 .button:visited:focus {
-  background: #d6daca;
+  background: #dde0d5;
   opacity: 0.9;
 }
 .blue-button,
@@ -336,22 +336,28 @@ NAVIGATION STYLES
 /* .menu is clearfixed inside mixins.scss */
 .menu {
   /* end .menu ul */
+
 }
 .menu ul {
   /* end .menu ul li */
+
   /* highlight current page */
+
   /* end current highlighters */
+
 }
 .menu ul li {
   /*
 				plan your menus and drop-downs wisely.
 				*/
+
 }
 .menu ul li a {
   /*
 					you can use hover styles here even though this size
 					has the possibility of being a mobile device.
 					*/
+
 }
 /* end .menu */
 /*********************
@@ -360,6 +366,7 @@ POSTS & CONTENT STYLES
 /* entry content */
 .entry-content {
   /* at this larger size, we can start to align images */
+
 }
 .entry-content .alignleft,
 .entry-content img.alignleft {
@@ -651,8 +658,11 @@ NAVIGATION STYLES
   float: right;
   margin-top: 20px;
   /* end .menu ul li */
+
   /* highlight current page */
+
   /* end current highlighters */
+
 }
 .nav li {
   float: left;
@@ -666,10 +676,11 @@ NAVIGATION STYLES
 			you can use hover styles here even though this size
 			has the possibility of being a mobile device.
 			*/
+
 }
 .nav li a:hover,
 .nav li a:focus {
-  background: #d6daca;
+  background: #dde0d5;
   border-radius: 3px;
   color: #000000;
   opacity: 1;
@@ -677,7 +688,7 @@ NAVIGATION STYLES
 .nav li.current-menu-item a,
 .nav li.current_page_item a,
 .nav li.current-page-ancestor a {
-  background: #d6daca;
+  background: #dde0d5;
   color: #000000;
   border-radius: 3px;
 }
@@ -687,7 +698,7 @@ NAVIGATION STYLES
 .blog .nav li.current_page_item a,
 .blog .nav li.current-page-ancestor a {
   background: none;
-  color: #d6daca;
+  color: #dde0d5;
 }
 .blog .nav li.current-menu-item a:hover,
 .blog .nav li.current_page_item a:hover,
@@ -695,7 +706,7 @@ NAVIGATION STYLES
 .blog .nav li.current-menu-item a:focus,
 .blog .nav li.current_page_item a:focus,
 .blog .nav li.current-page-ancestor a:focus {
-  background: #d6daca;
+  background: #dde0d5;
   color: #000000;
 }
 /*********************
@@ -731,6 +742,7 @@ SIDEBARS & ASIDES
 }
 .sidebar .widget ul li {
   /* deep nesting */
+
 }
 .sidebar .widget ul li ul {
   margin-top: 0.75em;
@@ -761,6 +773,7 @@ mobile. Make sure to double check these!
 			it's very rare to have multi-depth menus in
 			the footer.
 			*/
+
 }
 /* end .footer-links */
 /******************************************************************
