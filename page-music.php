@@ -68,7 +68,7 @@ Template Name: MUSIC
 
 			<div id="purchase-dropdown3">
 				<a href="http://www.fredsrecords.com/site/shop/matthew-byrne-hearts/">Fred's Records</a>
-				<a href="#">O'Brien's Music</a>
+				<a href="http://obriensmusic.com/shop/matthew-byrne-hearts-heros/">O'Brien's Music</a>
 			</div>
 					
 	    <hr>

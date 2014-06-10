@@ -25,7 +25,7 @@
 
 			<div id="purchase-dropdown1">
 				<a href="http://www.fredsrecords.com/site/shop/matthew-byrne-hearts/" target="blank">Fred's Records</a>
-				<a href="#" target="blank">O'Brien's Music</a>
+				<a href="http://obriensmusic.com/shop/matthew-byrne-hearts-heros/" target="blank">O'Brien's Music</a>
 			</div>
 
 	</div>
