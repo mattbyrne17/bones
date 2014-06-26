@@ -32,18 +32,40 @@ Template Name: MEDIA
 		
 		  <br>
 		
-		<!--<h2>Videos...</h2>
-		
-			<p>THIS IS WHERE THE VIDEOS WILL GO!</p>
-		
-		  <br>-->
+		<h2>Videos...</h2>
 
-		<h2>Press Quotes / Reviews...</h2>
+			<div class="clearfix">
 		
-			<?php if ( is_active_sidebar( 'sidebar2' ) ) : ?>
-			<?php dynamic_sidebar( 'sidebar2' ); ?>
-			<?php else : ?>
-			<?php endif; ?>
+				<div class="col5">
+					<h5>Claudie's Banks</h5>
+					<?php echo do_shortcode('[soliloquy id="282"]'); ?>
+				</div>
+				
+				<div class="col5 margin0">
+					<h5>Banks of Newfoundland</h5>
+					<?php echo do_shortcode('[soliloquy id="284"]'); ?>
+				</div>
+
+				<div class="col5">
+					<h5>McAlpine's Crew</h5>
+					<?php echo do_shortcode('[soliloquy id="289"]'); ?>
+				</div>
+				
+				<div class="col5 margin0">
+					<h5>Loss of the Schooner Maggie</h5>
+					<?php echo do_shortcode('[soliloquy id="287"]'); ?>
+				</div>
+
+				<div class="col5">
+					<h5>The Eastern Light</h5>
+					<?php echo do_shortcode('[soliloquy id="293"]'); ?>
+				</div>
+				
+				<div class="col5 margin0">
+					<h5><em>Hearts & Heroes</em> Trailer</h5>
+					<?php echo do_shortcode('[soliloquy id="291"]'); ?>
+				</div>
+			</div>
 		
 
 </div> <?php // end #main ?>

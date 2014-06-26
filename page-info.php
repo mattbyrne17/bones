@@ -53,13 +53,6 @@ Template Name: INFO
 	<?php endif; ?>
 
 
-
-			<p>
-				<a href="<?php echo get_template_directory_uri(); ?>/library/images/pressrelease.pdf"><strong><em>Hearts & Heroes</em> Press Release (PDF)</strong></a>
-			</p>
-
-
-
 </div> <?php // end #main ?>
 
 </div> <?php // end #inner-content ?>
