@@ -52,20 +52,28 @@ Template Name: MEDIA
 				</div>
 				
 				<div class="col5 margin0">
-					<h5>Loss of the Schooner Maggie</h5>
-					<?php echo do_shortcode('[soliloquy id="287"]'); ?>
+					<h5>True Love Knows No Season</h5>
+					<?php echo do_shortcode('[soliloquy id="311"]'); ?>
 				</div>
 
 				<div class="col5">
-					<h5>The Eastern Light</h5>
-					<?php echo do_shortcode('[soliloquy id="293"]'); ?>
+					<h5>Loss of the Schooner Maggie</h5>
+					<?php echo do_shortcode('[soliloquy id="287"]'); ?>
 				</div>
 				
 				<div class="col5 margin0">
-					<h5><em>Hearts & Heroes</em> Trailer</h5>
-					<?php echo do_shortcode('[soliloquy id="291"]'); ?>
+					<h5>The Eastern Light</h5>
+					<?php echo do_shortcode('[soliloquy id="293"]'); ?>
 				</div>
+
+				<div class="col5">
+					<h5><em>Hearts & Heroes</em> Trailer</h5>
+					<?php echo do_shortcode('[soliloquy id="291"]'); ?>					
+				</div>
+
 			</div>
+
+
 		
 
 </div> <?php // end #main ?>
